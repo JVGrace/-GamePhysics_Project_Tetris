@@ -1,2 +1,2 @@
 # GamePhysics_Project_Tetris
-Game Physics Project done by VIT Bhopal students NIKHIL GARG 20BCG10022, PRADUMN PATEL - 20BCG10049
+A classic tetris game reimagined with Indian Theme Made On Unity
